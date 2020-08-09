@@ -1,0 +1,9 @@
+{
+  "name": "electron-touchbar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.2.0"
+  }
+}
